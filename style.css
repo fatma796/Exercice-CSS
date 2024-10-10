@@ -1,0 +1,37 @@
+body{
+    h1 {
+        color: blue;
+        font-family: arial;
+        font-size: 30px;
+    }
+    p {
+        color:gray;
+        font-size: 18px;
+        font-style: italic;"
+    }
+
+.info-card {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;  
+} 
+    a {
+        color: dark green;
+        text-decoration: none;
+    }
+    a:hover {
+        color: red;
+      }
+button {
+        background-color: orange;
+        color: white;
+        border: 1px solid black;
+    }
+    
+button:hover {
+        background-color: darkorange;
+    }
+}
